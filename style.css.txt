@@ -1,0 +1,27 @@
+body {
+    background-color: #e6f7ff;
+    color: #00334d;
+}
+
+#header {
+    background-color: #b3e0ff;
+    color: #ffffff;
+    padding: 10px;
+}
+
+a {
+    color: #0088cc;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #005577;
+}
+
+.container, .table, .topbar, .bottom {
+    background-color: #ffffff;
+    border: 2px solid #b3e0ff;
+    border-radius: 5px;
+    padding: 5px;
+}     
